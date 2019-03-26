@@ -5,7 +5,7 @@ categories:
   - Featured
 sources:
   - https://github.com/codefresh-contrib/google-kms
-icon: https://github.com/codefresh-plugins/google-kms/blob/master/icon.jpg
+icon: https://raw.githubusercontent.com/codefresh-plugins/google-kms/blob/master/icon.jpg
 maintainers:
   - name: Will Malone
 envs:
