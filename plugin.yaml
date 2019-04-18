@@ -2,7 +2,7 @@ image: codefreshplugins/google-kms
 description: Facilitates work with Google Key Management Service for such operations as encrypting and decrypting
 version: 0.1.0
 categories:
-  - Featured
+  - featured
 sources:
   - https://github.com/codefresh-contrib/google-kms
 icon: https://raw.githubusercontent.com/codefresh-plugins/google-kms/master/icon.jpg
