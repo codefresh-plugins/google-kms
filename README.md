@@ -1,6 +1,6 @@
 Сodefresh Google KMS plugin
 
-This plugin facilitates work with Google Key Management Service for such operations like *encrypting* and *decrypting*
+This plugin facilitates work with Google Key Management Service for such operations like **encryption** and **decryption**
 
 # Usage
 
@@ -16,7 +16,7 @@ GoogleKMS:
 ```
 where VALUE_1 and VALUE_n are the **names** of the environment variables containing the values you need to encrypt or decrypt.
 
-The operation is mutable and when the step finishes the variables with the same names will contain encrypted values. For decryption the process is similar
+The operation is mutable and when the step finishes, the variables with the same names will contain encrypted values. For decryption the process is similar
 
 # Required environment variables
 
