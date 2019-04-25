@@ -10,7 +10,7 @@ Set the plugin required environment variables for the pipeline and use the plugi
 
 ```yaml
 GoogleKMS:
-    image: codefresh/google-kms
+    image: codefreshplugins/google-kms
     commands: 
       - kms encrypt VALUE_1 VALUE_n
 ```
